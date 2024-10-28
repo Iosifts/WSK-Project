@@ -2,7 +2,6 @@
 .vs/
 Lib/
 Scripts/
-*.ipynb
 bert-base-german-cased_finetuned/
 bert-base-german-cased_output/
 bert-base-german-cased_ris_finetuned/
